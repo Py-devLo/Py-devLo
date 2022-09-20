@@ -8,7 +8,6 @@
       * Blockchain technology
       * SQL
       * Data analysis libraries and tools
-- 💞️ I’m looking to collaborate on projects that will grow my mind and exciting to work on.
 - 📫 Hobbies:
       * Learning, teaching, and collaborating with technical projects
       * Basketball and outdoor exeperiences
