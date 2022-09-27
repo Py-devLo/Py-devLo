@@ -2,8 +2,8 @@
 - 🌱 Resign in Memphis, TN
 - 👀 14 years of IT- Desktop Support experience
 - 🌱 Currently mastering 
-      * Azure Cloud
-      * Azure Security
+      * Azure Cloud Fundamentals
+      * Microsoft Security, Compliance, and Identity Fundamentals
       * Python
       * Blockchain technology
       * SQL
